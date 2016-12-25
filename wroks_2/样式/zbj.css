@@ -107,13 +107,16 @@ body{
 .xinxi ul li strong span.sp4{
 	margin-left: -16px;
 }
-.xinxi ul li strong span.sp4{
-	margin-left: -20px;
-}
 .xinxi ul.u3{
 	position: absolute;
 	top: 48px;
 	right: 205px;
+}
+.xinxi ul.u3 li strong span.sp5{
+	margin-left: -13px;
+}
+.xinxi ul.u3 li strong span.sp6{
+	margin-left: -8px;
 }
 .content .jilu{
 	width: 230px;
